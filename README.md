@@ -757,6 +757,6 @@ Public Assets used in the project can be found [here](https://drive.google.com/f
 
 ## Acknowledgements
 
-This project was inspired by [jsmastery.pro].
+This project was inspired by jsmastery.pro link: <a name="jsmastery.pro">🔗 here </a>
 
 #
