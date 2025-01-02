@@ -1,8 +1,21 @@
+import Features from './components/Features'
+import Footer from './components/Footer'
+import Hero from './components/Hero'
+import Hightlights from './components/Hightlights'
+import HowItWorks from './components/HowItWorks'
+import Model from './components/Model'
+import Navbar from './components/Navbar'
 const App = () => {
   return (
-    <h1 className="text-3xl font-bold underline text-purple-500">
-      Hello world!
-    </h1>
+    <main className="bg-black">
+      <Navbar />
+      <Hero />
+      <Hightlights />
+      <Model />
+      <Features />
+      <HowItWorks />
+      <Footer />
+    </main>
   )
 }
 
